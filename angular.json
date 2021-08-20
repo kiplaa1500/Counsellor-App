@@ -23,7 +23,7 @@
             "allowedCommonJsDependencies": [
               "lodash"
            ],
-            "outputPath": "../static/front-end",
+            "outputPath": "dist/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
